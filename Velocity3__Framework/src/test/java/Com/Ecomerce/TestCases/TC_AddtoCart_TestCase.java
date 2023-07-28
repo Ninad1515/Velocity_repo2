@@ -40,7 +40,7 @@ public class TC_AddtoCart_TestCase extends Ecoomerce_baseclass {
 	 	    
 	 	    TA.close();
 	 	    logger.info("12)Close the tab");
-		    TA.close();
+		    
 	 	    
 	 	    
 	}
