@@ -110,6 +110,8 @@ public class byjus {
 		Thread.sleep(5000);
 		
 		driver.quit();
+                driver.quit();
+		
 	}
 	
 	
