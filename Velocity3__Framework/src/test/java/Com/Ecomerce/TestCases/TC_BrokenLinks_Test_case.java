@@ -58,6 +58,8 @@ public class TC_BrokenLinks_Test_case extends Ecoomerce_baseclass {
       
 	}
       System.out.println("number of broken links: "+BrokenLinks);
+		        System.out.println("number of broken links: "+BrokenLinks);
+
       
       
 }
