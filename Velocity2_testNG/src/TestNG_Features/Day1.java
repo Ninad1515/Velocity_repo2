@@ -13,7 +13,5 @@ public class Day1 {
 		System.out.println("Day 1--->Test5");
 	}
 	
-	public void Test5() {
-		
-	}
+	
 }
