@@ -10,9 +10,11 @@ public class Day1 {
 	}
 	@Test(groups = {"smoke"})
 	public void Test5() {
-		System.out.println("Day 1--->Test5");
+		System.out.println("Day 1---->Test5");
 	}
 }	
+
+
 	
 		
 
