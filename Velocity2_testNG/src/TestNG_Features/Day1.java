@@ -10,10 +10,18 @@ public class Day1 {
 	}
 	@Test(groups = {"smoke"})
 	public void Test5() {
-		System.out.println("Day 1--->Test5");
+		System.out.println("Day 1---->Test5");
 	}
+<<<<<<< HEAD
+}	
+
+
+	
+		
+=======
 	
 
 	ok
+>>>>>>> branch 'DMD_1515' of https://github.com/Ninad1515/Velocity_repo2.git
 
-}
+
